@@ -30,7 +30,7 @@ var Nav = React.createClass({
                                <input type='text' placeholder='Search Weather' />
                            </li>
                            <li>
-                               <input type='submit' className='button' />
+                               <input type='submit' className='button' value='Get Weather'/>
                            </li>
                        </ul>
                    </form>
